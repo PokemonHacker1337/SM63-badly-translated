@@ -44,9 +44,14 @@ A: Everything that is text based in the code will be translated. This includes (
 
 Q: What will not be translated?
 
-A: Anything that isn't editable text, like most interface stuff. Those are stored as pictures, which means that I'd have to export them, redraw them and import the text, which is too much work for me. Also I can't draw anyway, and getting someone to do it would be more trouble than it's worth. Another thing that won't be changed are signs with graphics, like ones in the tutorial. As a minor note, names tend to be very hard to translate to something different. A very notable example of this is a Toad that says "Obama! Obama!". Since Obama is considered to be a proper noun, translating a name to a different language would simply continue to give it back the same name, since being known as John Smith in English would be the same in other languages that use the same characters, like Spanish, French and German. 
+A: Anything that isn't editable text, like most interface stuff. Those are stored as pictures, which means that I'd have to export them, redraw them and import the text, which is too much work for me. Also I can't draw anyway, and getting someone to do it would be more trouble than it's worth. Another thing that won't be changed are signs with graphics, like ones in the tutorial. As a minor note, names tend to be very hard to translate to something different. A very notable example of this is a Toad that says "Obama! Obama!". Since Obama is considered to be a proper noun, translating a name to a different language would simply continue to give back the same name, since being known as John Smith in English would be the same in other languages that use the same characters, like Spanish, French and German. 
 
 
 Q: I want to do a real translation to a different language, one that isn't a joke. Could you please teach me how to do what you did? 
 
 A: Sure, but it will be very time consuming. Download and install the latest version of [ffDec](https://github.com/jindrapetrik/jpexs-decompiler/releases/tag/version14.4.0) and explore the text. In theory (haven't tested this), you can use this to add text in any language, as long as you know said language. Explaining the exact way to use this will be out of the scope of this FAQ. You also will need a regular copy of Super Mario 63 in the form of a .swf, which you can get by [clicking this text](https://github.com/PokemonHacker1337/Other-Flash-Stuff/raw/main/sm63game.swf). 
+
+
+Q: Will you do this with other games? 
+
+A: Possibly, depending on how this one goes. I don't know which one I will do next though, as I don't play that many text heavy flash games. 
