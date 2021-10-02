@@ -55,3 +55,13 @@ A: Sure, but it will be very time consuming. Download and install the latest ver
 Q: Will you do this with other games? 
 
 A: Possibly, depending on how this one goes. I don't know which one I will do next though, as I don't play that many text heavy flash games. 
+
+
+Q: What's the release status? 
+
+A: Still working on it. It takes a while to find the text of the game and translate all of it. 
+
+
+Q: ETA?
+
+A: Before the year 9999. 
