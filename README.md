@@ -2,7 +2,7 @@
 
 If you just want to download the latest version of the hack, [click here](https://github.com/PokemonHacker1337/SM63-badly-translated/releases/download/Updated_versions/Super.Mario.64.Badly.Translated.0.2.swf)
 
-This is a hack of Runouw's Flash game Super Mario 63. In this hack, I am using a program from [TheCoderCat](https://sites.google.com/view/thecodercatprojects) known as [Bad Translator](https://workspace.google.com/marketplace/app/bad_translator/306615442162). This acts as an addon to Google Docs. The way the program works is it throws text you highlight through Google Translate a number of times that you specify, then it spits it back to you in English. The reasoning behind the translation being screwed up is because some languages don't have certain words, so it has to fall back to a word that's similar. Furthermore, as different languages have different structures (like how Japanese, Korean, Arabic and English use completely different lettering systems and structures), it's difficult for Google to understand it, which is why it basically breaks. Keep in mind, Google Translate is also ran by the community, so it is entirely possible for someone to maliciously edit the database to make it so random sentences translate into something that they shouldn't. The languages each line of text gets translated to is random, regardless of it being directly compatible or not. For example, if I choose 10 languages, it could start with English, then Spanish, German, Japanese, Yiddish, Welsh, Arabic, Punjabi, Chinese, Catalan, French and then finally back into English. 
+This is a hack of Runouw's Flash game Super Mario 63. In this hack, I am using a program from [TheCoderCat](https://sites.google.com/view/thecodercatprojects) known as [Bad Translator](https://workspace.google.com/marketplace/app/bad_translator/306615442162). This acts as an addon to Google Docs. The way the program works is you can automatically throw text you highlight through Google Translate a number of times that you specify, then it spits it back to you in English. The reasoning behind the translation being screwed up is because some languages don't have certain words, so it has to fall back to a word that's similar. Furthermore, as different languages have different structures (like how Japanese, Korean, Arabic and English use completely different lettering systems and structures), it's difficult for Google to understand it, which is why it basically breaks. Keep in mind, Google Translate is also ran by the community, so it is entirely possible for someone to maliciously edit the database to make it so random sentences translate into something that they shouldn't. The languages each line of text gets translated to is random, regardless of it being directly compatible or not. For example, if I choose 10 languages, it could start with English, then Spanish, German, Japanese, Yiddish, Welsh, Arabic, Punjabi, Chinese, Catalan, French and then finally back into English. 
 
 Now with the boring explanation out of the way, here is what you all have been waiting for:
 
@@ -65,3 +65,8 @@ A: Still working on it. It takes a while to find the text of the game and transl
 Q: ETA?
 
 A: Before the year 9999. 
+
+
+Q: Any TWs/Trigger Warnings?
+
+A: So far, we have mentions of hell and suicide. You don't need to see them to beat the game, however (at least as of this writing).
