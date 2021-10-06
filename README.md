@@ -59,7 +59,7 @@ A: Possibly, depending on how this one goes. I don't know which one I will do ne
 
 Q: What's the release status? 
 
-A: Still working on it. It takes a while to find the text of the game and translate all of it. 
+A: Finally finished. You may download the finished product. There are some things that I may have missed, I might go back for anything that I have missed.  
 
 
 Q: ETA?
