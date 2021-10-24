@@ -70,3 +70,8 @@ A: Before the year 9999.
 Q: Any TWs/Trigger Warnings?
 
 A: So far, we have mentions of hell and suicide. You don't need to see them to beat the game, however (at least as of this writing). Edit: references to alcohol have been added. 
+
+
+Q: What are some examples of the content in this hack?
+
+A: [Click here to see some of my favorite early to midgame screenshots](https://github.com/PokemonHacker1337/SM63-badly-translated/tree/main/Screenshots)
